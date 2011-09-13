@@ -1,0 +1,22 @@
+files
+{
+	(.)
+	sprite_sheet.h
+	sprite_sheet.cpp
+	sprite.h
+	sprite.cpp
+	sprite_animation.h
+	sprite_animation.cpp
+	sprite_frame.h
+	sprite_frame.cpp
+
+}
+
+subproject
+{
+	iwutil
+	iw2d
+	iwresmanager
+}
+
+includepath source
